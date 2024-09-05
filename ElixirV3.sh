@@ -31,7 +31,6 @@ function install_node() {
     check_and_install_docker
 
     # Prompt user to input environment variable values
-    read -p "Please enter the IP address of the validator node device: " ip_address
     read -p "Please enter the display name of the validator node: " validator_name
     read -p "Please enter the reward collection address of the validator node: " safe_public_address
     read -p "Please enter the signer's private key, without 0x: " private_key
@@ -40,7 +39,6 @@ function install_node() {
     cat <<EOF > validator.env
 ENV=testnet-3
 
-STRATEGY_EXECUTOR_IP_ADDRESS=${ip_address}
 STRATEGY_EXECUTOR_DISPLAY_NAME=${validator_name}
 STRATEGY_EXECUTOR_BENEFICIARY=${safe_public_address}
 SIGNER_PRIVATE_KEY=${private_key}
