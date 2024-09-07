@@ -1,1 +1,205 @@
-IyEvYmluL2Jhc2gNCg0KIyBDaGVjayBpZiB0aGUgc2NyaXB0IGlzIHJ1biBhcyByb290IHVzZXINCmlmIFsgIiQoaWQgLXUpIiAhPSAiMCIgXTsgdGhlbg0KICAgIGVjaG8gIlRoaXMgc2NyaXB0IG5lZWRzIHRvIGJlIHJ1biB3aXRoIHJvb3QgdXNlciBwcml2aWxlZ2VzLiINCiAgICBlY2hvICJQbGVhc2UgdHJ5IHVzaW5nICdzdWRvIC1pJyB0byBzd2l0Y2ggdG8gdGhlIHJvb3QgdXNlciwgYW5kIHRoZW4gcnVuIHRoaXMgc2NyaXB0IGFnYWluLiINCiAgICBleGl0IDENCmZpDQoNCiMgU2NyaXB0IHNhdmUgcGF0aA0KU0NSSVBUX1BBVEg9IiRIT01FL0VsaXhpclYzLnNoIg0KDQojIENoZWNrIGFuZCBpbnN0YWxsIFB5dGhvbiAzDQpmdW5jdGlvbiBjaGVja19hbmRfaW5zdGFsbF9weXRob24oKSB7DQogICAgaWYgISBjb21tYW5kIC12IHB5dGhvbjMgJj4gL2Rldi9udWxsOyB0aGVuDQogICAgICAgIGVjaG8gIlB5dGhvbiAzIG5vdCBkZXRlY3RlZCwgaW5zdGFsbGluZy4uLiINCiAgICAgICAgc3VkbyBhcHQtZ2V0IHVwZGF0ZQ0KICAgICAgICBzdWRvIGFwdC1nZXQgaW5zdGFsbCAteSBweXRob24zDQogICAgICAgIGVjaG8gIlB5dGhvbiAzIGluc3RhbGxlZC4iDQogICAgZWxzZQ0KICAgICAgICBlY2hvICJQeXRob24gMyBpcyBhbHJlYWR5IGluc3RhbGxlZC4iDQogICAgZmkNCg0KICAgICMgQ2hlY2sgYW5kIGluc3RhbGwgcGlwIGZvciBQeXRob24gMw0KICAgIGlmICEgY29tbWFuZCAtdiBwaXAzICY+IC9kZXYvbnVsbDsgdGhlbg0KICAgICAgICBlY2hvICJwaXAgZm9yIFB5dGhvbiAzIG5vdCBkZXRlY3RlZCwgaW5zdGFsbGluZy4uLiINCiAgICAgICAgc3VkbyBhcHQtZ2V0IGluc3RhbGwgLXkgcHl0aG9uMy1waXANCiAgICAgICAgZWNobyAicGlwIGluc3RhbGxlZC4iDQogICAgZWxzZQ0KICAgICAgICBlY2hvICJwaXAgaXMgYWxyZWFkeSBpbnN0YWxsZWQuIg0KICAgIGZpDQoNCiAgICAjIEluc3RhbGwgcmVxdWVzdHMgbGlicmFyeSB1c2luZyBwaXANCiAgICBpZiAhIHB5dGhvbjMgLWMgImltcG9ydCByZXF1ZXN0cyIgJj4gL2Rldi9udWxsOyB0aGVuDQogICAgICAgIGVjaG8gIlB5dGhvbiAncmVxdWVzdHMnIG1vZHVsZSBub3QgZGV0ZWN0ZWQsIGluc3RhbGxpbmcuLi4iDQogICAgICAgIHBpcDMgaW5zdGFsbCByZXF1ZXN0cw0KICAgICAgICBlY2hvICIncmVxdWVzdHMnIG1vZHVsZSBpbnN0YWxsZWQuIg0KICAgIGVsc2UNCiAgICAgICAgZWNobyAiJ3JlcXVlc3RzJyBtb2R1bGUgaXMgYWxyZWFkeSBpbnN0YWxsZWQuIg0KICAgIGZpDQp9DQoNCiMgQ2hlY2sgYW5kIGluc3RhbGwgRG9ja2VyDQpmdW5jdGlvbiBjaGVja19hbmRfaW5zdGFsbF9kb2NrZXIoKSB7DQogICAgaWYgISBjb21tYW5kIC12IGRvY2tlciAmPiAvZGV2L251bGw7IHRoZW4NCiAgICAgICAgZWNobyAiRG9ja2VyIG5vdCBkZXRlY3RlZCwgaW5zdGFsbGluZy4uLiINCiAgICAgICAgc3VkbyBhcHQtZ2V0IHVwZGF0ZQ0KICAgICAgICBzdWRvIGFwdC1nZXQgaW5zdGFsbCAteSBhcHQtdHJhbnNwb3J0LWh0dHBzIGNhLWNlcnRpZmljYXRlcyBjdXJsIHNvZnR3YXJlLXByb3BlcnRpZXMtY29tbW9uDQogICAgICAgIGN1cmwgLWZzU0wgaHR0cHM6Ly9kb3dubG9hZC5kb2NrZXIuY29tL2xpbnV4L3VidW50dS9ncGcgfCBzdWRvIGFwdC1rZXkgYWRkIC0NCiAgICAgICAgc3VkbyBhZGQtYXB0LXJlcG9zaXRvcnkgImRlYiBbYXJjaD1hbWQ2NF0gaHR0cHM6Ly9kb3dubG9hZC5kb2NrZXIuY29tL2xpbnV4L3VidW50dSAkKGxzYl9yZWxlYXNlIC1jcykgc3RhYmxlIg0KICAgICAgICBzdWRvIGFwdC1nZXQgdXBkYXRlDQogICAgICAgIHN1ZG8gYXB0LWdldCBpbnN0YWxsIC15IGRvY2tlci1jZQ0KICAgICAgICBlY2hvICJEb2NrZXIgaW5zdGFsbGVkLiINCiAgICBlbHNlDQogICAgICAgIGVjaG8gIkRvY2tlciBpcyBhbHJlYWR5IGluc3RhbGxlZC4iDQogICAgZmkNCn0NCg0KIyBGZXRjaCBhIHJhbmRvbSB1c2VybmFtZSBmcm9tIHJhbmRvbXVzZXIubWUgQVBJIHVzaW5nIFB5dGhvbg0KZnVuY3Rpb24gZmV0Y2hfcmFuZG9tX3VzZXJuYW1lKCkgew0KICAgIHB5dGhvbjMgLSA8PEVORA0KaW1wb3J0IHJlcXVlc3RzDQppbXBvcnQgc3lzDQp0cnk6DQogICAgcmVzcG9uc2UgPSByZXF1ZXN0cy5nZXQoImh0dHBzOi8vcmFuZG9tdXNlci5tZS9hcGkvMC44Lz9yZXN1bHRzPTEiKQ0KICAgIGlmIHJlc3BvbnNlLnN0YXR1c19jb2RlID09IDEwOg0KICAgICAgICB1c2VybmFtZSA9IHJlc3BvbnNlLmpzb24oKVsicmVzdWx0cyJdWzBdWyJ1c2VyIl1bInVzZXJuYW1lIl0NCiAgICAgICAgcHJpbnQodXNlcm5hbWUpDQogICAgZWxzZToNCiAgICAgICAgc3lzLmV4aXQoMSkNCmV4Y2VwdCBFeGNlcHRpb24gYXMgZToNCiAgICBzeXMuZXhpdCgxKQ0KRU5EDQp9DQoNCiMgTm9kZSBpbnN0YWxsYXRpb24gZnVuY3Rpb24gZm9yIG11bHRpcGxlIHdhbGxldHMgKDEwIG5vZGVzKQ0KZnVuY3Rpb24gaW5zdGFsbF9tdWx0aXBsZV9ub2RlcygpIHsNCiAgICBjaGVja19hbmRfaW5zdGFsbF9weXRob24NCiAgICBjaGVja19hbmRfaW5zdGFsbF9kb2NrZXINCg0KICAgICMgRW5zdXJlIHRoZSByZXF1aXJlZCBmaWxlcyBleGlzdA0KICAgIGlmIFsgISAtZiAicHJpdmF0ZV9rZXlzLnR4dCIgXTsgdGhlbg0KICAgICAgICBlY2hvICJGaWxlIHByaXZhdGVfa2V5cy50eHQgbm90IGZvdW5kLiBQbGVhc2UgbWFrZSBzdXJlIHRoZSBmaWxlIGV4aXN0cy4iDQogICAgICAgIGV4aXQgMQ0KICAgIGZpDQogICAgaWYgWyAhIC1mICJhZGRyZXNzLnR4dCIgXTsgdGhlbg0KICAgICAgICBlY2hvICJGaWxlIGFkZHJlc3MudHh0IG5vdCBmb3VuZC4gUGxlYXNlIG1ha2Ugc3VyZSB0aGUgZmlsZSBleGlzdHMuIg0KICAgICAgICBleGl0IDENCiAgICBmaQ0KDQogICAgIyBSZWFkIGFkZHJlc3NlcyBhbmQgcHJpdmF0ZSBrZXlzIGZyb20gZmlsZXMNCiAgICBtYXBmaWxlIC10IGFkZHJlc3NlcyA8IGFkZHJlc3MudHh0DQogICAgbWFwZmlsZSAtdCBwcml2YXRlX2tleXMgPCBwcml2YXRlX2tleXMudHh0DQoNCiAgICAjIENoZWNrIGlmIHRoZXJlIGFyZSBhdCBsZWFzdCAxMCBhZGRyZXNzZXMgYW5kIHByaXZhdGUga2V5cw0KICAgIGlmIFsgJHsjYWRkcmVzc2VzW0BdfSAtbHQgMTAgXSB8fCBbICR7I3ByaXZhdGVfa2V5c1tAXX0gLWx0IDEwIF07IHRoZW4NCiAgICAgICAgZWNobyAiVGhlcmUgbXVzdCBiZSBhdCBsZWFzdCAxMCBlbnRyaWVzIGluIGJvdGggYWRkcmVzcy50eHQgYW5kIHByaXZhdGVfa2V5cy50eHQuIg0KICAgICAgICBleGl0IDENCiAgICBmaQ0KDQogICAgIyBMb29wIHRocm91Z2ggYW5kIGluc3RhbGwgMTAgbm9kZXMNCiAgICBmb3IgaSBpbiB7MS4uMTB9OyBkbw0KICAgICAgICBlY2hvICJTZXR0aW5nIHVwIHZhbGlkYXRvciBub2RlICRpLi4uIg0KDQogICAgICAgICMgRmV0Y2ggYSByYW5kb20gdXNlcm5hbWUgZm9yIGVhY2ggdmFsaWRhdG9yDQogICAgICAgIHZhbGlkYXRvcl9uYW1lPSQoZmV0Y2hfcmFuZG9tX3VzZXJuYW1lKQ0KICAgICAgICBpZiBbIC16ICIkdmFsaWRhdG9yX25hbWUiIF07IHRoZW4NCiAgICAgICAgICAgIGVjaG8gIkZhaWxlZCB0byBmZXRjaCByYW5kb20gdXNlcm5hbWUuIEV4aXRpbmcuIg0KICAgICAgICAgICAgZXhpdCAxDQogICAgICAgIGZpDQoNCiAgICAgICAgIyBHZXQgc2FmZSBwdWJsaWMgYWRkcmVzcyBhbmQgcHJpdmF0ZSBrZXkNCiAgICAgICAgc2FmZV9wdWJsaWNfYWRkcmVzcz0ke2FkZHJlc3Nlc1skKChpLTEpKV19DQogICAgICAgIHByaXZhdGVfa2V5PSR7cHJpdmF0ZV9rZXlzWyQoKGktMSkpXX0NCg0KICAgICAgICAjIENyZWF0ZSBhIHVuaXF1ZSBlbnZpcm9ubWVudCBmaWxlIGZvciBlYWNoIHZhbGlkYXRvcg0KICAgICAgICBjYXQgPDxFT0YgPiB2YWxpZGF0b3JfJHtpfS5lbnYNCkVOVj10ZXN0bmV0LTMNCg0KU1RSQVRFR1lfRVhFQ1VUT1JfRElTUExBWV9OQU1FPSR7dmFsaWRhdG9yX25hbWV9DQpTVFJBVEVHWV9FWEVDVVRPUl9CRU5FRklDSUFSWT0ke3NhZmVfcHVibGljX2FkZHJlc3N9DQpTSUdORVJfUFJJVkFURV9LRVk9JHtwcml2YXRlX2tleX0NCkVPRg0KDQogICAgICAgIGVjaG8gIkVudmlyb25tZW50IHZhcmlhYmxlcyBzZXQgYW5kIHNhdmVkIHRvIHZhbGlkYXRvcl8ke2l9LmVudiBmaWxlLiINCg0KICAgICAgICAjIFB1bGwgRG9ja2VyIGltYWdlIGZvciB0aGUgZmlyc3QgcnVuDQogICAgICAgIGlmIFsgJGkgLWVxIDEgXTsgdGhlbg0KICAgICAgICAgICAgZG9ja2VyIHB1bGwgZWxpeGlycHJvdG9jb2wvdmFsaWRhdG9yOnYzDQogICAgICAgIGZpDQoNCiAgICAgICAgIyBSdW4gRG9ja2VyIGNvbnRhaW5lciBmb3IgZWFjaCB2YWxpZGF0b3INCiAgICAgICAgZG9ja2VyIHJ1biAtaXQgLWQgXA0KICAgICAgICAgIC0tZW52LWZpbGUgdmFsaWRhdG9yXyR7aX0uZW52IFwNCiAgICAgICAgICAtLW5hbWUgZWxpeGlyXyR7aX0gXA0KICAgICAgICAgIGVsaXhpcnByb3RvY29sL3ZhbGlkYXRvcjp2Mw0KICAgICAgICANCiAgICAgICAgZWNobyAiVmFsaWRhdG9yIG5vZGUgJHt2YWxpZGF0b3JfbmFtZX0gc3RhcnRlZCB3aXRoIGNvbnRhaW5lciBlbGl4aXJfJHtpfS4iDQogICAgZG9uZQ0KfQ0KDQojIFZpZXcgRG9ja2VyIGxvZ3MgZnVuY3Rpb24NCmZ1bmN0aW9uIGNoZWNrX2RvY2tlcl9sb2dzKCkgew0KICAgIGVjaG8gIlZpZXdpbmcgRWxpeGlyIERvY2tlciBjb250YWluZXIgbG9ncy4uLiINCiAgICBkb2NrZXIgbG9ncyAtZiBlbGl4aXINCn0NCg0KIyBEZWxldGUgRG9ja2VyIGNvbnRhaW5lciBmdW5jdGlvbg0KZnVuY3Rpb24gZGVsZXRlX2RvY2tlcl9jb250YWluZXIoKSB7DQogICAgZWNobyAiRGVsZXRpbmcgRWxpeGlyIERvY2tlciBjb250YWluZXIuLi4iDQogICAgZG9ja2VyIHN0b3AgZWxpeGlyDQogICAgZG9ja2VyIHJtIGVsaXhpcg0KICAgIGVjaG8gIkVsaXhpciBEb2NrZXIgY29udGFpbmVyIGRlbGV0ZWQuIg0KfQ0KDQojIE9wdGlvbiA1OiBVcGRhdGUgYWxsIDEwIHZhbGlkYXRvciBub2Rlcw0KZnVuY3Rpb24gdXBkYXRlX2FsbF9ub2RlcygpIHsNCiAgICBlY2hvICJVcGRhdGluZyBhbGwgMTAgdmFsaWRhdG9yIG5vZGVzLi4uIg0KICAgIA0KICAgICMgTG9vcCB0aHJvdWdoIGFsbCAxMCBub2RlcyBhbmQgdXBkYXRlIHRoZW0NCiAgICBmb3IgaSBpbiB7MS4uMTB9OyBkbw0KICAgICAgICBlY2hvICJVcGRhdGluZyB2YWxpZGF0b3Igbm9kZSAkaS4uLiINCg0KICAgICAgICAjIFN0b3AgYW5kIHJlbW92ZSB0aGUgZXhpc3RpbmcgY29udGFpbmVyDQogICAgICAgIGRvY2tlciBraWxsIGVsaXhpcl8ke2l9DQogICAgICAgIGRvY2tlciBybSBlbGl4aXJfJHtpfQ0KDQogICAgICAgICMgUHVsbCB0aGUgbGF0ZXN0IGltYWdlDQogICAgICAgIGRvY2tlciBwdWxsIGVsaXhpcnByb3RvY29sL3ZhbGlkYXRvcjp2Mw0KDQogICAgICAgICMgUnVuIHRoZSB1cGRhdGVkIGNvbnRhaW5lciB3aXRoIHRoZSByZXNwZWN0aXZlIGVudmlyb25tZW50IGZpbGUNCiAgICAgICAgZG9ja2VyIHJ1biAtaXQgLWQgXA0KICAgICAgICAgIC0tZW52LWZpbGUgdmFsaWRhdG9yXyR7aX0uZW52IFwNCiAgICAgICAgICAtLW5hbWUgZWxpeGlyXyR7aX0gXA0KICAgICAgICAgIGVsaXhpcnByb3RvY29sL3ZhbGlkYXRvcjp2Mw0KICAgICAgICANCiAgICAgICAgZWNobyAiVmFsaWRhdG9yIG5vZGUgJGkgaGFzIGJlZW4gdXBkYXRlZCBhbmQgcmVzdGFydGVkLiINCiAgICBkb25lDQp9DQoNCiMgTWFpbiBtZW51DQpmdW5jdGlvbiBtYWluX21lbnUoKSB7DQogICAgY2xlYXINCiAgICBlY2hvICI9PT09PT09PT09PT09PT09PT09PT1FbGl4aXIgVjMgTm9kZT09PT09PT09PT09PT09PT09PT09PT09PT0iDQogICAgZWNobyAiUGxlYXNlIGNob29zZSBhbiBvcGVyYXRpb24gdG8gcGVyZm9ybToiDQogICAgZWNobyAiMS4gSW5zdGFsbCBFbGl4aXIgVjMgTm9kZSINCiAgICBlY2hvICIyLiBWaWV3IERvY2tlciBMb2dzIg0KICAgIGVjaG8gIjMuIERlbGV0ZSBFbGl4aXIgRG9ja2VyIENvbnRhaW5lciINCiAgICBlY2hvICI0LiBJbnN0YWxsIDEwIEVsaXhpciBWMyBOb2RlcyBmcm9tIHByaXZhdGVfa2V5cy50eHQiDQogICAgZWNobyAiNS4gVXBkYXRlIGFsbCAxMCB2YWxpZGF0b3Igbm9kZXMiDQogICAgcmVhZCAtcCAiUGxlYXNlIGVudGVyIGFuIG9wdGlvbiAoMS01KTogIiBPUFRJT04NCg0KICAgIGNhc2UgJE9QVElPTiBpbg0KICAgIDEpIGluc3RhbGxfbm9kZSA7Ow0KICAgIDIpIGNoZWNrX2RvY2tlcl9sb2dzIDs7DQogICAgMykgZGVsZXRlX2RvY2tlcl9jb250YWluZXIgOzsNCiAgICA0KSBpbnN0YWxsX211bHRpcGxlX25vZGVzIDs7DQogICAgNSkgdXBkYXRlX2FsbF9ub2RlcyA7Ow0KICAgICopIGVjaG8gIkludmFsaWQgb3B0aW9uLiIgOzsNCiAgICBlc2FjDQp9DQoNCiMgRGlzcGxheSBtYWluIG1lbnUNCm1haW5fbWVudQ0K
+#!/bin/bash
+
+# Check if the script is run as root user
+if [ "$(id -u)" != "0" ]; then
+    echo "This script needs to be run with root user privileges."
+    echo "Please try using 'sudo -i' to switch to the root user, and then run this script again."
+    exit 1
+fi
+
+# Script save path
+SCRIPT_PATH="$HOME/ElixirV3.sh"
+
+# Check and install Python 3
+function check_and_install_python() {
+    if ! command -v python3 &> /dev/null; then
+        echo "Python 3 not detected, installing..."
+        sudo apt-get update
+        sudo apt-get install -y python3
+        echo "Python 3 installed."
+    else
+        echo "Python 3 is already installed."
+    fi
+
+    # Check and install pip for Python 3
+    if ! command -v pip3 &> /dev/null; then
+        echo "pip for Python 3 not detected, installing..."
+        sudo apt-get install -y python3-pip
+        echo "pip installed."
+    else
+        echo "pip is already installed."
+    fi
+
+    # Install requests library using pip
+    if ! python3 -c "import requests" &> /dev/null; then
+        echo "Python 'requests' module not detected, installing..."
+        pip3 install requests
+        echo "'requests' module installed."
+    else
+        echo "'requests' module is already installed."
+    fi
+}
+
+# Check and install Docker
+function check_and_install_docker() {
+    if ! command -v docker &> /dev/null; then
+        echo "Docker not detected, installing..."
+        sudo apt-get update
+        sudo apt-get install -y apt-transport-https ca-certificates curl software-properties-common
+        curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+        sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"
+        sudo apt-get update
+        sudo apt-get install -y docker-ce
+        echo "Docker installed."
+    else
+        echo "Docker is already installed."
+    fi
+}
+
+# Fetch a random username from randomuser.me API using Python
+function fetch_random_username() {
+    python3 - <<END
+import requests
+import sys
+try:
+    response = requests.get("https://randomuser.me/api/0.8/?results=1")
+    if response.status_code == 10:
+        username = response.json()["results"][0]["user"]["username"]
+        print(username)
+    else:
+        sys.exit(1)
+except Exception as e:
+    sys.exit(1)
+END
+}
+
+# Node installation function for multiple wallets (10 nodes)
+function install_multiple_nodes() {
+    check_and_install_python
+    check_and_install_docker
+
+    # Ensure the required files exist
+    if [ ! -f "private_keys.txt" ]; then
+        echo "File private_keys.txt not found. Please make sure the file exists."
+        exit 1
+    fi
+    if [ ! -f "address.txt" ]; then
+        echo "File address.txt not found. Please make sure the file exists."
+        exit 1
+    fi
+
+    # Read addresses and private keys from files
+    mapfile -t addresses < address.txt
+    mapfile -t private_keys < private_keys.txt
+
+    # Check if there are at least 10 addresses and private keys
+    if [ ${#addresses[@]} -lt 10 ] || [ ${#private_keys[@]} -lt 10 ]; then
+        echo "There must be at least 10 entries in both address.txt and private_keys.txt."
+        exit 1
+    fi
+
+    # Loop through and install 10 nodes
+    for i in {1..10}; do
+        echo "Setting up validator node $i..."
+
+        # Fetch a random username for each validator
+        validator_name=$(fetch_random_username)
+        if [ -z "$validator_name" ]; then
+            echo "Failed to fetch random username. Exiting."
+            exit 1
+        fi
+
+        # Get safe public address and private key
+        safe_public_address=${addresses[$((i-1))]}
+        private_key=${private_keys[$((i-1))]}
+
+        # Create a unique environment file for each validator
+        cat <<EOF > validator_${i}.env
+ENV=testnet-3
+
+STRATEGY_EXECUTOR_DISPLAY_NAME=${validator_name}
+STRATEGY_EXECUTOR_BENEFICIARY=${safe_public_address}
+SIGNER_PRIVATE_KEY=${private_key}
+EOF
+
+        echo "Environment variables set and saved to validator_${i}.env file."
+
+
+        # Pull Docker image for the first run
+        if [ $i -eq 1 ]; then
+            docker pull elixirprotocol/validator:v3
+        fi
+
+        # Run Docker container for each validator
+        docker run -it -d \
+          --env-file validator_${i}.env \
+          --name elixir_${i} \
+          elixirprotocol/validator:v3
+        
+        echo "Validator node ${validator_name} started with container elixir_${i}."
+    done
+}
+
+# View Docker logs function
+function check_docker_logs() {
+    echo "Viewing Elixir Docker container logs..."
+    docker logs -f elixir
+}
+
+# Delete Docker container function
+function delete_docker_container() {
+    echo "Deleting Elixir Docker container..."
+    docker stop elixir
+    docker rm elixir
+    echo "Elixir Docker container deleted."
+}
+
+# Option 5: Update all 10 validator nodes
+function update_all_nodes() {
+    echo "Updating all 10 validator nodes..."
+    
+    # Loop through all 10 nodes and update them
+    for i in {1..10}; do
+        echo "Updating validator node $i..."
+
+        # Stop and remove the existing container
+        docker kill elixir_${i}
+        docker rm elixir_${i}
+
+        # Pull the latest image
+        docker pull elixirprotocol/validator:v3
+
+        # Run the updated container with the respective environment file
+        docker run -it -d \
+          --env-file validator_${i}.env \
+          --name elixir_${i} \
+          elixirprotocol/validator:v3
+        
+        echo "Validator node $i has been updated and restarted."
+    done
+}
+
+# Main menu
+function main_menu() {
+    clear
+    echo "=====================Elixir V3 Node========================="
+    echo "Please choose an operation to perform:"
+    echo "1. Install Elixir V3 Node"
+    echo "2. View Docker Logs"
+    echo "3. Delete Elixir Docker Container"
+    echo "4. Install 10 Elixir V3 Nodes from private_keys.txt"
+    echo "5. Update all 10 validator nodes"
+    read -p "Please enter an option (1-5): " OPTION
+
+    case $OPTION in
+    1) install_node ;;
+    2) check_docker_logs ;;
+    3) delete_docker_container ;;
+    4) install_multiple_nodes ;;
+    5) update_all_nodes ;;
+    *) echo "Invalid option." ;;
+    esac
+}
+
+# Display main menu
+main_menu
